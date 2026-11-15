@@ -1,0 +1,6 @@
+{
+  "name": "Amazigh Learn — ⴰⵎⴰⵣⵉⵖ | تطبيق تعليم اللغة والثقافة الأمازيغية المغربية",
+  "description": "منصة تعليمية تفاعلية شاملة لتعلّم اللغة والثقافة الأمازيغية المغربية بحروف تيفيناغ المعيارية (IRCAM) مع 26 قصة تراثية وتاريخية، 33 حرفاً، معجم 340 مدخلاً، و260 سؤال اختبار.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
